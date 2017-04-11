@@ -18,3 +18,6 @@ This goes to a series of webpages
  -  extracts raw image URL from first result and open the image a new tab
  
 All of it in separate tabs which took 30 seconds less than when opened in windows instead. Tabs are fast :D!
+
+Demonstrating the use of tabs
+![alt tag](https://i.cubeupload.com/q3zLPI.gif)
